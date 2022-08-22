@@ -2,8 +2,8 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Word Count",
-        "command": "highlight-wordcount:toggle"
+        "label": "Twitter Character Count",
+        "command": "twitter-character-count:toggle"
       }
     ]
   }

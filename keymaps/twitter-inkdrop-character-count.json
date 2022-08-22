@@ -1,5 +1,5 @@
 {
   "body": {
-    "ctrl-alt-t": "highlight-wordcount:toggle"
+    "ctrl-alt-t": "twitter-character-count:toggle"
   }
 }
